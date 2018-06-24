@@ -16,7 +16,7 @@ manager (such as `apt-get` or `brew`). Then install this package using the Go
 toolchain:
 
 ```sh
-$ go get -u github.com/benbjohnson/phantomjs
+$ go get -u github.com/hongjianghuang/phantomjs
 ```
 
 
